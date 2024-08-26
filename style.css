@@ -1,0 +1,16 @@
+#navbar{
+    background-color: rgb(0, 204, 255);
+    
+   
+}
+
+#navItems{
+    display: flex;
+    align-content: space-around;
+    
+}
+
+#navItems ul {
+    text-decoration: none;
+    
+}
